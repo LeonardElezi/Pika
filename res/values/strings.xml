@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">Pika</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello Pika! Something great is coming...</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_pika_main">PikaMainActivity</string>
 
