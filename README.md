@@ -1,4 +1,6 @@
 Pika
 ====
 
-Android Augmented Reality App
+Android Augmented Reality App.
+
+POI in my country, nothing much
